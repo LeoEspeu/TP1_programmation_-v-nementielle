@@ -16,7 +16,7 @@ namespace even_projet
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frPersonne());
         }
     }
 }
